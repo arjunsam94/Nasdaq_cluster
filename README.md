@@ -26,6 +26,8 @@ Initially, I chose 11 clusters since the cluster separation was reasonably clear
 
 However, all clusters except 4 had just one or two datapoints and unbalanced cluster sizes are not ideal to draw useful insights. Hence, I chose 4 clusters even though the vertical line height is higher in the dendrogram for that number.
 
+https://github.com/arjunsam94/Nasdaq_cluster/blob/999b803be9b37ba0f24161d7bcca0c192468a368/download.png
+
 iii) 
 
 Hierarchical cluster (Avg. return and variation)
